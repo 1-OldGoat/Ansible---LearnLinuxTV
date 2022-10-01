@@ -9,3 +9,5 @@ on my Proxmox server to use as the test machines.
 I will also deploy a CentOS VM, to follow more closely what Jay covers in his tutorial series.
 
 Added public key to github repository, and cloned the repository to my Ubuntu workstation.
+
+Created the inventory file and added the 3 hosts.
