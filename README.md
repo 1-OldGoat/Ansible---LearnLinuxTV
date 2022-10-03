@@ -11,3 +11,6 @@ I will also deploy a CentOS VM, to follow more closely what Jay covers in his tu
 Added public key to github repository, and cloned the repository to my Ubuntu workstation.
 
 Created the inventory file and added the 3 hosts.
+
+Added 2 pre-existing servers and a Fedora server to the inventory file.
+
